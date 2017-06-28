@@ -1,0 +1,8 @@
+Статья по интерактивным урокам
+https://habrahabr.ru/post/148829/
+
+Переменные и типы данных
+http://www.codecademy.com/courses/introduction-to-python-6WeG3/0?curriculum_id=4f89dab3d788890003000096
+
+Ссылки на обучающие сайты
+https://wombat.org.ua/AByteOfPython/what_next.html

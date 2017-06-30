@@ -52,7 +52,7 @@ In other words, a tuple is immutable whereas a list is mutable.
 50. Файлы. 
 
 
-100. QA и домашнее задание. 
+60. QA и домашнее задание. 
 
 ДЗ:
 

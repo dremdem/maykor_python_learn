@@ -1,0 +1,83 @@
+Типы данных, окончание.
+Словари, кортежи, файлы, прочие типы
+
+0. Приветствие. Проверка связи. 
+2. Разбор предыдущего ДЗ. 
+10. Возврат назад. Динамическая типизация.
+
+- Переменная и объект это разные вещи
+- Переменная ссылкается на объект
+- Переменная не имеет определенного типа, объект имеет
+- Переменная создается когда ей присваивается значение
+- При использоватении переменной в выражение она заменяется объектом на который она ссылается
+
+>>> a = 1
+>>> b = 4
+>>> a + b
+5
+>>> a = '1'
+>>> b = '4'
+>>> a + b
+'14'
+>>> 
+
+20. Словари.
+
+- Словари - перечисляемый тип
+- Доступ к элементам по ключу
+- Элементы словаря не упорядочены
+
+40. Кортежи
+
+- Кортежи - упорядоченные группы объектов
+- Доступ так же как в списке
+- Только для чтения
+- Зачем использовать кортежи...
+https://stackoverflow.com/questions/1708510/python-list-vs-tuple-when-to-use-each
+
+Tuples are fixed size in nature whereas lists are dynamic.
+In other words, a tuple is immutable whereas a list is mutable.
+
+    You can't add elements to a tuple. Tuples have no append or extend method.
+    You can't remove elements from a tuple. Tuples have no remove or pop method.
+    You can find elements in a tuple, since this doesn’t change the tuple.
+    You can also use the in operator to check if an element exists in the tuple.
+
+    Tuples are faster than lists. If you're defining a constant set of values and all you're ever going to do with it is iterate through it, use a tuple instead of a list.
+
+    It makes your code safer if you “write-protect” data that does not need to be changed. Using a tuple instead of a list is like having an implied assert statement that this data is constant, and that special thought (and a specific function) is required to override that.
+
+    Some tuples can be used as dictionary keys (specifically, tuples that contain immutable values like strings, numbers, and other tuples). Lists can never be used as dictionary keys, because lists are not immutable.
+
+50. Файлы. 
+
+
+100. QA и домашнее задание. 
+
+ДЗ:
+
+Создаем список музыкальных композиций в формате CSV.
+
+Список полей: 
+- Название
+- Исполнитель
+- Длительность
+
+Пример: 
+
+Believer, Imagine Dragons, 3:24
+All I Can Think About Is You, Cold Play, 4:34
+Mouth Of The River, Imagine Dragons, 3:41
+
+В программе открываем CSV-файл, считываем все композиции
+
+Выводим названия всех композиций на экран построчно.
+
+Инструменты: 
+
+open
+for
+split
+
+
+

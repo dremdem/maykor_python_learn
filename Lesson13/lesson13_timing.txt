@@ -7,4 +7,22 @@
 40. Вводная в GUI-приложения
 55. ДЗ
 
+
+
+
 Поставить себе PyCharm и разобраться в его базовых возможностях.
+
+
+https://www.fullstackpython.com/microservices.html
+https://martinfowler.com/articles/microservices.html
+
+
+
+Qt
+
+PyQt
+
+PySide
+
+pyinstaller
+

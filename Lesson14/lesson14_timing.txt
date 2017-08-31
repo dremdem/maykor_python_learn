@@ -1,0 +1,29 @@
+Средства офисной автоматизации, email, SMS, Microsoft Office
+
+0. Приветствие. Проверка связи. 
+2. Разбор предыдущего ДЗ. 
+10. Работа с Excel
+30. Email
+40. Windows автоматизация
+55. ДЗ
+
+Написать модуль, который формирует excel-файл со списком файлов и поддиректорий по выбранной папке.
+Далее формирует email и отправляет excel-файл на заданный адрес
+
+Поля таблицы в Excel:
+
+- Путь к файлу
+- Имя файла
+- Размер в байтах
+
+Таблица должна быть отсортирована по размеру
+
+
+https://habrahabr.ru/post/232291/
+
+http://www.pythonforbeginners.com/code-snippets-source-code/using-python-to-send-email
+
+https://pywinauto.github.io/
+
+
+

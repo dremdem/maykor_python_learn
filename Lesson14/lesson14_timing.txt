@@ -20,6 +20,8 @@
 
 
 https://habrahabr.ru/post/232291/
+https://www.xlwings.org/
+https://openpyxl.readthedocs.io/en/default/#
 
 http://www.pythonforbeginners.com/code-snippets-source-code/using-python-to-send-email
 

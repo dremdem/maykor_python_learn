@@ -1,0 +1,13 @@
+<h3>This is test!!!!!</h3>
+
+
+<form action="{{ url_for('test') }}" method="post">
+    {{ form.test1.label }}: {{ form.test1 }}
+    <br>
+    {{ form.test2.label }}: {{ form.test2 }}
+    <br>
+    {{ form.csrf_token }}
+    <input type="submit" value="Отправить">
+</form>
+
+<h4>This is t1: {{ t1 }}</h4>

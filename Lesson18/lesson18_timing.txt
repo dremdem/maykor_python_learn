@@ -1,0 +1,40 @@
+Рассказ про интернет вещей
+
+0. Приветствие. Проверка связи. 
+
+
+
+https://geektimes.ru/post/276710/
+
+
+Наконец-то я оживил малину с Home Assistant на борту. 
+Web: 10.77.0.204:8123
+Ssh 10.77.0.204:22
+Пароль к ssh: pi/maykor123
+
+hass
+
+Выдержка из configuration.yaml
+
+sensor:
+  - platform: dht
+    sensor: DHT11
+    pin: 23
+    name: TestDHT11
+    monitored_conditions:
+      - temperature
+
+
+switch:
+  - platform: rpi_gpio
+    ports:
+      22: Red LED
+      27: Blue LED
+
+
+
+
+
+
+
+

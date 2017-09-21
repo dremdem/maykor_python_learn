@@ -1,0 +1,22 @@
+Интернет вещей, Raspberry PI 
+
+0. Приветствие. Проверка связи. 
+2. Разбор предыдущего ДЗ. 
+10. Установка Raspbian на Raspberry PI
+30. Home assistant и его установка
+40. Настройка Home Assistant
+
+
+https://home-assistant.io/
+
+При установке пришлось сначала поставить образ малины 
+и уже на него вручную ставить Home Assistant
+
+При установке Home Assistant вручную надо будет поставить SQLAlchemy:
+
+pip3 install sqlalchemy
+
+
+
+
+

@@ -23,6 +23,7 @@ Lesson16 07.09.2017: https://my.webinar.ru/record/996774/
 Lesson17 12.09.2017: https://my.webinar.ru/record/998840/
 Lesson18 19.09.2017: https://my.webinar.ru/record/998842/ 
 Lesson19 21.09.2017: https://my.webinar.ru/record/1001578/ 
-Lesson20 20.09.2017: 
+Lesson20 20.09.2017: https://my.webinar.ru/record/1003450/
+
 
 IoT video: https://youtu.be/_EiNv4CgI_M

@@ -31,6 +31,8 @@ switch:
       22: Red LED
       27: Blue LED
 
+Ссылка на демонстрационное видео: https://youtu.be/_EiNv4CgI_M
+
 
 
 
